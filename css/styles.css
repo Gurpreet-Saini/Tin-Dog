@@ -11,11 +11,10 @@ h3{
      font-family: 'Montserrat', sans-serif;
     font-weight:bolder;
     font-size: 5rem;
-    color:white;
+    color:#000000;
 }
 h4{
     font-family: 'Montserrat', sans-serif;
-    
 }
 
 .nav-bar{
@@ -32,13 +31,10 @@ h4{
     padding :0 18px 0 18px;
 }
 
- 
-
 .container-fluid{
 padding-bottom: 15%;
-    
-
 }
+
 .row{
     padding: 40px;
 }
@@ -52,8 +48,6 @@ padding-bottom: 15%;
     padding:8% 14%;
  background-color: white;
     position: relative;
-
-  
 }
 p{
     color:#8f8f8f;
@@ -114,19 +108,17 @@ p{
     #title{
         text-align: center;
     }
-    
 }
 #cta{
     background-color: #ff4c68;
     text-align: center;
     padding: 7%;
-    
 }
+
 #footer{
     text-align: center;
     font-size: 24px;
-    padding: 5%;
-    
+    padding: 5%;  
 }
 .foot{
     padding: 3%;
